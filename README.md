@@ -8,9 +8,8 @@
 <img align="center" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt= "gif"><br /><br />
 
 ### Dependências 
-yarn add @material-ui/core
-yarn add @material-ui/icons
-npm install --save react-swipeable-views
+yarn add styled-components
+yarn add dropzone
 
 
 ### Ícones para commits padrão
