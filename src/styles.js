@@ -7,6 +7,7 @@ export const Container = styled.div`
   align-items: center;
 `;
 
+//Fundo branco
 export const Content = styled.div`
   width: 100%;
   max-width: 400px;

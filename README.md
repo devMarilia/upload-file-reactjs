@@ -9,7 +9,12 @@
 
 ### Dependências 
 yarn add styled-components
-yarn add dropzone
+yarn add react-dropzone
+yarn add react-circular-progressbar
+yarn add react-icons
+yarn add lodash
+yarn add filesize
+yarn add axios
 
 
 ### Ícones para commits padrão
